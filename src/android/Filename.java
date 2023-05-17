@@ -2,9 +2,7 @@ package mobius3.plugin;
 
 import android.database.Cursor;
 import android.net.Uri;
-import android.provider.MediaStore;
 import android.provider.OpenableColumns;
-import android.support.v4.content.CursorLoader;
 
 import org.apache.cordova.*;
 import org.json.JSONArray;
